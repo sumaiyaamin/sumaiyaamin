@@ -15,8 +15,8 @@ Currently, I am a 2nd year student and doing my undergrad in Computer Science an
 
 <h3 align="left">Connect with me:</h3>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sumaiyaamin)
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://github.com/sumaiyaamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sumaiyamin" height="30" width="40" /></a>
 <a href="https://fb.com/sumaiyaaaaaaaaaaaaaaaaaaaaamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumaiyaaaaaaaaaaaaaaaaaaaaamin" height="30" width="40" /></a>
 <a href="https://instagram.com/herself_ray_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="herself_ray_" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sumaiyaamin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sumaiyaamin_" height="30" width="40" /></a>
