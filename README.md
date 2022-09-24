@@ -24,8 +24,6 @@ Currently, I am a 2nd year student and doing my undergrad in Computer Science an
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sumaiyaamin)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyaamin)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumaiyaamin&show_icons=true)  
