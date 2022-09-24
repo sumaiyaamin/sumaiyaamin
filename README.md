@@ -1,12 +1,10 @@
 ![dc7a2f909252775b30dd062c33ebbf64](https://user-images.githubusercontent.com/114303499/192119117-3aefda57-d9c8-46b1-b064-289f37979d62.jpg)
 
 # Hi there 👋, I am Sumaiya Amin Prova
-#### A dreamer, passionate about coding and reviving my craftmanship through programming 
+## A dreamer, passionate about coding and reviving my craftmanship through programming 
 ![A dreamer, passionate about coding and reviving my craftmanship through programming ]
 
 Currently, I am a 2nd year student and doing my undergrad in Computer Science and Engineering.
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 - 🔭 I’m currently working on Basic Python Projects 
@@ -14,6 +12,9 @@ Currently, I am a 2nd year student and doing my undergrad in Computer Science an
 - 🤔 I’m looking for help with Competitive Programming 
 - 📫 How to reach me: sumaiya.prova321@gmai.com 
 - 😄 Pronouns: She/Her 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sumaiyaamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sumaiyaaaaaaaaaaaaaaaaaaaaamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/herself_ray_/)  
