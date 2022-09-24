@@ -1,6 +1,5 @@
    # Hi there 👋, I am Sumaiya Amin Prova
 ## A dreamer, passionate about coding and reviving my craftmanship through programming 
-![A dreamer, passionate about coding and reviving my craftmanship through programming ]
 
 Currently, I am a 2nd year student and doing my undergrad in Computer Science and Engineering.
 
