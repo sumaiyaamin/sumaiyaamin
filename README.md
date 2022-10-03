@@ -7,7 +7,7 @@ Currently, I am a 2nd year student and doing my undergrad in Computer Science an
 - 🔭 I’m currently working on Basic Python Projects 
 - 🌱 I’m currently learning Advanced Python 
 - 🤔 I’m looking for help with Competitive Programming 
-- 📫 How to reach me: sumaiya.prova321@gmai.com 
+- 📫 How to reach me: sumaiya.prova321@gmail.com 
 - 😄 Pronouns: She/Her 
 
 <h3 align="left">Languages and Tools:</h3>
