@@ -31,7 +31,6 @@ Currently, I am a 2nd year student and doing my undergrad in Computer Science an
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sumaiyaamin)  
 
-![GitHub metrics](https://metrics.lecoq.io/sumaiyaamin)  
 
 ![Profile views](https://gpvc.arturio.dev/sumaiyaamin)  
 
