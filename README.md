@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Currently, I am a 4th year student and doing my undergrad in Computer Science and Engineering.<br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning MERN<br>🎯 Goals: Becoming a Full Stack Dev<br>🎲 Fun fact: Love to be in the energy saving mode (sleeping)</p>
+<p align="left">Currently, I am a 4th year student and doing my undergrad in Computer Science and Engineering.<br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning MERN<br>🎯 Goals: Becoming a Full Stack Dev<br>🎲 Fun fact: Love to be in the energy saving mode (sleeping)</p><br> Reach me : sumaiya.prova321@gmail.com
 
 ###
 
