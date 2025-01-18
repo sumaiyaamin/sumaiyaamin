@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/GFMqZL1/Whats-App-Image-2025-01-08-at-15-23-44-e520849c.jpg"  />
+  <img height="200" src="https://github.com/sumaiyaamin/sumaiyaamin/blob/53f1f32156af8427ad4cdd484bde1eb0f1715c98/banner.png"  />
 </div>
 
 ###
