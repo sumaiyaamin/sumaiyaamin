@@ -14,6 +14,8 @@
 ###
 
 <h2 align="left">A dreamer, passionate about coding and reviving my craftmanship through programming</h2>
+<p>Computer Science student with a passion for software development and innovation. Skilled in MERN stack and front-end engineering, I thrive on building impactful projects.  
+Focused on blending technology with social good, I aim to contribute to Bangladesh's growth through research and innovation. </p>
 
 
  
