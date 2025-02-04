@@ -1,22 +1,34 @@
 <div align="center">
   <img height="200" src="https://github.com/sumaiyaamin/sumaiyaamin/blob/53f1f32156af8427ad4cdd484bde1eb0f1715c98/banner.png"  />
 </div>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0BF700&background=FF000000&size=25&center=true&vCenter=true&width=600&height=70&lines=Assalamu+Alaikum;Welcome+to+My+Profile"></a>
+
 
 ###
 
-<h1 align="left">Hi there 👋, I am Sumaiya Amin Prova</h1>
+<h1 align="center">Hi there 👋, I am Sumaiya Amin Prova</h1>
+<h1 align = "center"> <img src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "100px" align = "center"> 
+</h1>
+
 
 ###
 
 <h2 align="left">A dreamer, passionate about coding and reviving my craftmanship through programming</h2>
 
-###
 
-<h2 align="left">About me</h2>
+ 
+# About Me 
+ <p align="left">Currently, I am a 4th year student and doing my undergrad in Computer Science and Engineering.<br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning MERN<br>🎯 Goals: Becoming a Full Stack Dev<br>🎲 Fun fact: Love to be in the energy saving mode (sleeping)</p>
+  
 
-###
+  
+ <br><br>
 
-<p align="left">Currently, I am a 4th year student and doing my undergrad in Computer Science and Engineering.<br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning MERN<br>🎯 Goals: Becoming a Full Stack Dev<br>🎲 Fun fact: Love to be in the energy saving mode (sleeping)</p><br> 
+- **My Portfolio** - [<img align = "center" src = "https://img.shields.io/badge/Portfolio-white.svg?" width = "60">](https://sumaiyaamin.netlify.app/)
+- **My Resume** - <a href = "https://drive.google.com/file/d/1UgcfLY4TzmEExWZM-_K3J6v5qkO1TXYb/view?usp=sharing"><img align = "center" src = "https://img.shields.io/badge/Sumaiya Amin Prova -%23E60023.svg?"></a>
+
+
+</div>
 
 ###
 <p align="center">
@@ -24,6 +36,7 @@
   <a href="https://www.linkedin.com/in/sumaiya-amin-prova01/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
+
 
 <p align="left"></p>
 
