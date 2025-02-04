@@ -1,7 +1,6 @@
 <div align="center">
   <img height="200" src="https://github.com/sumaiyaamin/sumaiyaamin/blob/53f1f32156af8427ad4cdd484bde1eb0f1715c98/banner.png"  />
 </div>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0BF700&background=FF000000&size=25&center=true&vCenter=true&width=600&height=70&lines=Assalamu+Alaikum;Welcome+to+My+Profile"></a>
 
 
 ###
