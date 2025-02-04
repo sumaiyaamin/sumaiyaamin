@@ -16,9 +16,16 @@
 
 ###
 
-<p align="left">Currently, I am a 4th year student and doing my undergrad in Computer Science and Engineering.<br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning MERN<br>🎯 Goals: Becoming a Full Stack Dev<br>🎲 Fun fact: Love to be in the energy saving mode (sleeping)</p><br> Reach me : sumaiya.prova321@gmail.com
+<p align="left">Currently, I am a 4th year student and doing my undergrad in Computer Science and Engineering.<br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning MERN<br>🎯 Goals: Becoming a Full Stack Dev<br>🎲 Fun fact: Love to be in the energy saving mode (sleeping)</p><br> 
 
 ###
+<p align="center">
+  <a href="mailto:sumaiya.prova321@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+ 
+  <a href="https://www.linkedin.com/in/sumaiya-amin-prova01/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
 
 <p align="left"></p>
 
