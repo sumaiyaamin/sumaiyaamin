@@ -21,8 +21,6 @@
 ###
 <p align="center">
   <a href="mailto:sumaiya.prova321@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- 
- 
   <a href="https://www.linkedin.com/in/sumaiya-amin-prova01/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
@@ -63,17 +61,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-###
 
-<h2 align="left">Connect with me:</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/sumaiya-amin-prova-ab5894193/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 
@@ -86,9 +74,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumaiyaamin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-![Snake animation](https://raw.githubusercontent.com/sumaiyaamin/sumaiyaamin/output/snake.svg)
-
-
-###
+<div>
+  <p align="left">
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/sumaiyaamin/sumaiyaamin.svg" />
+</p>
+</div>
