@@ -34,11 +34,25 @@ Focused on blending technology with social good, I aim to contribute to Banglade
 </div>
 
 ###
+###
+
+<div>
+  <p align="left">
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/sumaiyaamin/sumaiyaamin.svg" />
+</p>
+</div>
+
+###
+
+<h2 align="center">Connect with me</h2>
+
 <p align="center">
   <a href="mailto:sumaiya.prova321@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sumaiya-amin-prova01/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
+
+### 
 
 
 <p align="left"></p>
@@ -85,13 +99,24 @@ Focused on blending technology with social good, I aim to contribute to Banglade
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumaiyaamin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumaiyaamin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+   
+ 
 </div>
 
-<div>
-  <p align="left">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/sumaiyaamin/sumaiyaamin.svg" />
-</p>
+###
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=sumaiyaamin&theme=dark" alt="GitHub Streak" />
+  </a>
 </div>
+
+
+###
+
+
+
+
