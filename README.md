@@ -28,7 +28,7 @@ Focused on blending technology with social good, I aim to contribute to Banglade
  <br><br>
 
 - **My Portfolio** - [<img align = "center" src = "https://img.shields.io/badge/Portfolio-white.svg?" width = "60">](https://sumaiyaamin.netlify.app/)
-- **My Resume** - <a href = "https://drive.google.com/file/d/1UgcfLY4TzmEExWZM-_K3J6v5qkO1TXYb/view?usp=sharing"><img align = "center" src = "https://img.shields.io/badge/Sumaiya Amin Prova -%23E60023.svg?"></a>
+- **My Resume** - <a href = "https://drive.google.com/file/d/1jUbzf5Ah6C8-GOIYyoHe7JVclZpX7Bb8/view?usp=drive_link"><img align = "center" src = "https://img.shields.io/badge/Sumaiya Amin Prova -%23E60023.svg?"></a>
 
 
 </div>
